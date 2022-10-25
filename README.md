@@ -9,6 +9,7 @@
     And then open requirements.txt and install all pip in you terminal. NOW you can use all of my promgram
     
     
+    [x] Add delight to the experience when all tasks are complete :tada:
     HOPE U LIKE MY PROGRAM
   
 
