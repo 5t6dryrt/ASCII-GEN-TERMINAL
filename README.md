@@ -11,10 +11,7 @@
     pip install termcolor
     pip install colorama
     pip install pytest
-    
-    NOW you can use all of my promgram
-    
-    
+  #### NOW you can use all of my promgram
     [x] Add delight to the experience when all tasks are complete :tada:
     HOPE U LIKE MY PROGRAM
   
