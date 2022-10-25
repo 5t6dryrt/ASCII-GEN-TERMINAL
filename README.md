@@ -1,5 +1,5 @@
   # ASCII-GEN-TERMINAL
-  #### Video Demo:  https://www.youtube.com/watch?v=YHVfZLRm1IU&ab_channel=nongnamthousandyear
+  #### Video Demo:  [https://www.youtube.com/watch?v=YHVfZLRm1IU&ab_channel=nongnamthousandyear]
   #### Description:
     Let start with check the file. We need 3 file. 
     1.project.py
