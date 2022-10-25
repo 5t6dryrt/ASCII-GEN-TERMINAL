@@ -6,7 +6,13 @@
     2.requirements.txt
     3.test_project.py
     
-    And then open requirements.txt and install all pip in you terminal. NOW you can use all of my promgram
+    And then open requirements.txt and install all pip in you terminal.
+    pip install pyfiglet 
+    pip install termcolor
+    pip install colorama
+    pip install pytest
+    
+    NOW you can use all of my promgram
     
     
     [x] Add delight to the experience when all tasks are complete :tada:
